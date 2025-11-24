@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747934686752",
+    "project_id": "testtask-a8c40",
+    "storage_bucket": "testtask-a8c40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747934686752:android:5b834b69b378fd4595e645",
+        "android_client_info": {
+          "package_name": "com.example.rapidd_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-n8ng2j7zdDIOpI_19DIaQY0oyc4wRws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
